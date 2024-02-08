@@ -11,5 +11,10 @@
 
 int main(void)
 {
+	LCD_init();
+	LCD_displayString("Distance= ");
+	while(1)
+	{
 
+	}
 }
