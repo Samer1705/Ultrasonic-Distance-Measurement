@@ -1,8 +1,15 @@
 /*
- * main.c
- *
- *  Created on: Feb 8, 2024
- *      Author: samer
+ ============================================================================
+ Name        : main.c
+ Author      : Samer Sameh Lawindy
+ ============================================================================
  */
 
+#include "lcd.h"
+#include "common_macros.h"
+#include "std_types.h"
 
+int main(void)
+{
+
+}
